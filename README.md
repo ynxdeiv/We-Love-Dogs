@@ -1,15 +1,23 @@
-🐾 We Love Dogs 🐾
-Este é um projeto simples, desenvolvido com HTML e CSS, como parte do processo seletivo para a PlugInfo da Info Jr.
+# 🐾 We Love Dogs 🐾
 
-📖 Sobre o Projeto
-O objetivo principal deste site estático foi iniciar minhas habilidades em front-end, aplicando conceitos básicos e essenciais de HTML e CSS. O site celebra o amor pelos cachorros, com um design limpo e responsivo.
+Este é um projeto simples, desenvolvido com **HTML** e **CSS**, criado como parte do processo seletivo para a **PlugInfo** da Info Jr.
 
-🚀 Tecnologias Utilizadas
-HTML5: Para estruturação do conteúdo, utilizando tags semânticas.
+---
 
-CSS3: Para estilização e layout da página.
+### 📖 Sobre o Projeto
 
-✨ Recursos
-Layout simples e intuitivo.
+O objetivo principal deste site estático foi iniciar minhas habilidades em front-end, aplicando conceitos básicos e essenciais de HTML e CSS. 
 
-Utilização de classes e IDs para uma estilização organizada.
+---
+
+### 🚀 Tecnologias Utilizadas
+
+* **HTML5**: Usado para a estruturação semântica do conteúdo da página.
+* **CSS3**: Responsável pela estilização e cores 
+
+---
+
+### ✨ Recursos
+
+* Layout simples e intuitivo.
+* Utilização de classes e IDs para uma estilização organizada e de fácil manutenção.
